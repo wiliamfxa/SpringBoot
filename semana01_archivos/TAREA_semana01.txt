@@ -1,0 +1,6 @@
+Tarea
+-----
+* Realizar 2 casos del tema de Inyección de Dependencia con Java Spring.
+* Mostrar previamente sus diagramas de clases
+
+Nota: Toda tarea se presenta en clase.
